@@ -1,0 +1,39 @@
+
+[
+  {
+    "id": 1,
+    "userId": 1,
+    "propertyId": 1,
+    "date": "2025-05-20",
+    "status": "confirmed",
+    "createdAt": "2025-04-15",
+    "notes": "Looking forward to viewing this property"
+  },
+  {
+    "id": 2,
+    "userId": 3,
+    "propertyId": 2,
+    "date": "2025-05-25",
+    "status": "confirmed",
+    "createdAt": "2025-04-18",
+    "notes": "Interested in long-term rental options"
+  },
+  {
+    "id": 3,
+    "userId": 1,
+    "propertyId": 3,
+    "date": "2025-06-10",
+    "status": "pending",
+    "createdAt": "2025-04-20",
+    "notes": "Would like to discuss financing options"
+  },
+  {
+    "id": 4,
+    "userId": 1,
+    "propertyId": 5,
+    "date": "2025-06-05",
+    "status": "pending",
+    "createdAt": "2025-04-22",
+    "notes": "Looking for office space for my growing company"
+  }
+]

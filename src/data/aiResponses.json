@@ -1,0 +1,75 @@
+
+{
+  "propertyAssistant": {
+    "faqs": [
+      {
+        "question": "What are the steps to buying a property?",
+        "answer": "Buying a property typically involves: 1) Getting pre-approved for a mortgage, 2) Finding a property that meets your needs, 3) Making an offer, 4) Getting a home inspection, 5) Securing financing, 6) Closing the deal. Our platform simplifies this process by connecting you with the right properties and providing resources for each step."
+      },
+      {
+        "question": "How long does the buying process usually take?",
+        "answer": "The buying process can vary widely depending on market conditions, property type, and financing arrangements. On average, from initial search to closing, you might expect 2-3 months. Some transactions can be completed more quickly, especially if you're a cash buyer, while others might take longer if there are complications with financing or inspections."
+      },
+      {
+        "question": "What's the difference between a fixed and variable mortgage rate?",
+        "answer": "A fixed-rate mortgage has the same interest rate for the entire term, offering payment stability since your monthly payments won't change. A variable-rate mortgage has an interest rate that can fluctuate based on market conditions. While variable rates often start lower than fixed rates, they carry the risk of increasing over time, which would increase your monthly payments."
+      },
+      {
+        "question": "How much do I need for a down payment?",
+        "answer": "Down payment requirements vary by location and property type. Generally, residential properties require 5-20% of the purchase price, with lower down payments usually requiring mortgage insurance. Commercial properties typically require 20-35% down. Many first-time homebuyer programs offer assistance with down payments, and we can connect you with financing options that match your situation."
+      },
+      {
+        "question": "What additional costs should I budget for when buying a property?",
+        "answer": "Beyond the purchase price, budget for: closing costs (2-5% of the loan amount), property taxes, homeowners insurance, potential HOA fees, home inspection fees, moving costs, and immediate repairs or renovations. We recommend setting aside a contingency fund of 1-3% of the home's value for unexpected expenses that may arise shortly after purchase."
+      }
+    ],
+    "propertyMatchmaker": [
+      {
+        "preference": "Urban living with access to public transportation",
+        "matches": [1, 2, 5]
+      },
+      {
+        "preference": "Family-friendly suburban neighborhood",
+        "matches": [3]
+      },
+      {
+        "preference": "Luxury waterfront property",
+        "matches": [4]
+      },
+      {
+        "preference": "Investment property with high rental potential",
+        "matches": [1, 2, 5, 6]
+      },
+      {
+        "preference": "Commercial space for small business",
+        "matches": [5, 6]
+      }
+    ],
+    "descriptions": [
+      {
+        "propertyId": 1,
+        "enhancedDescription": "This extraordinary penthouse represents the pinnacle of urban luxury living. Perched high above the city, it offers a lifestyle that few can experience—where breathtaking panoramic views become your everyday backdrop. The thoughtfully designed interior strikes a perfect balance between sophistication and comfort, with premium materials including Italian marble, custom millwork, and smart home integration throughout. The primary suite is positioned to capture sunrise views, while the expansive living areas face the sunset, creating magical ambiance for entertaining. This rare offering combines the exclusivity of a private residence with the amenities of a five-star hotel."
+      },
+      {
+        "propertyId": 2,
+        "enhancedDescription": "Step into this architectural gem where industrial heritage meets contemporary design. This coveted loft space preserves authentic character elements—original brick walls, exposed steel beams, and factory windows—while integrating modern comforts seamlessly. The dramatic ceiling height creates an extraordinary sense of volume and light, with carefully positioned skylights that track the sun throughout the day. The flexible open layout allows for multiple configurations to suit your lifestyle needs. Located in a vibrant cultural district, you'll be surrounded by award-winning restaurants, boutique shopping, and a thriving creative community, making this not just a home but a lifestyle choice for the discerning urbanite."
+      },
+      {
+        "propertyId": 3,
+        "enhancedDescription": "This exceptional family home offers the perfect blend of comfort, functionality, and charm in one of the area's most desirable neighborhoods. The thoughtful floor plan creates distinct zones for gathering and privacy, with sun-filled rooms that connect seamlessly to the outdoor living spaces. The chef's kitchen serves as the heart of the home, featuring a large center island, professional-grade appliances, and abundant storage. The primary suite provides a true retreat with its sitting area, custom walk-in closet, and spa-inspired bathroom. Located within the top-rated school district and minutes from parks, shopping, and major commuter routes, this property delivers on location as impressively as its living spaces."
+      },
+      {
+        "propertyId": 4,
+        "enhancedDescription": "This breathtaking waterfront estate represents a once-in-a-lifetime opportunity to own an architectural masterpiece where luxury knows no bounds. Designed to maximize its privileged location, every room features meticulously framed water views that change with the light throughout the day. The boundary between indoor and outdoor living dissolves through walls of disappearing glass that open to expansive terraces. The world-class amenities include a temperature-controlled wine room, professional home theater, infinity-edge pool that appears to merge with the ocean, and deep-water dock accommodating large vessels. Cutting-edge smart home technology controls everything from security to climate to lighting with effortless precision. This is more than a home—it's a legacy property for the most discerning buyer."
+      },
+      {
+        "propertyId": 5,
+        "enhancedDescription": "This premium commercial opportunity offers the perfect balance of prestige and functionality in the heart of the financial district. The versatile workspace features soaring ceilings with abundant natural light, creating an energizing environment designed to inspire productivity and creativity. State-of-the-art infrastructure includes enterprise-grade connectivity, advanced climate control systems, and comprehensive security protocols. The building's impressive lobby creates the perfect first impression for clients, while amenities such as conference facilities, a fitness center, and rooftop terrace provide valuable additions to your business footprint. Its central location offers exceptional visibility and accessibility, with proximity to key business partners, dining options, and transportation hubs."
+      },
+      {
+        "propertyId": 6,
+        "enhancedDescription": "This exceptional retail opportunity sits at the convergence of foot traffic, visibility, and accessibility—the three critical factors for retail success. The configurable space offers maximum flexibility with its column-free layout and high ceilings, allowing for creative merchandising and brand expression. Premium storefront glazing provides unobstructed visibility and natural light, creating an inviting atmosphere for customers. The property benefits from a complementary tenant mix that drives consistent traffic, with neighboring businesses that enhance rather than compete with various retail concepts. Ample parking and proximity to public transportation ensure customers can access your business with ease. This location has consistently demonstrated strong sales metrics across previous tenants, promising excellent potential for the right retail concept."
+      }
+    ]
+  }
+}

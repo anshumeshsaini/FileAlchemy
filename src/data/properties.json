@@ -1,0 +1,235 @@
+
+[
+  {
+    "id": 1,
+    "title": "Luxury Penthouse with Skyline View",
+    "price": 750000,
+    "pricePerMonth": 3500,
+    "area": 1800,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "location": {
+      "address": "123 Skyline Avenue",
+      "city": "New York",
+      "state": "NY",
+      "zip": "10001",
+      "lat": 40.7128,
+      "lng": -74.0060
+    },
+    "type": "Residential",
+    "propertyType": "Apartment",
+    "status": "For Sale",
+    "featured": true,
+    "images": [
+      "https://images.unsplash.com/photo-1493397212122-2b85dda8106b",
+      "https://images.unsplash.com/photo-1721322800607-8c38375eef04",
+      "https://images.unsplash.com/photo-1492321936769-b49830bc1d1e"
+    ],
+    "amenities": [
+      "Swimming Pool",
+      "Gym",
+      "Rooftop Garden",
+      "Parking",
+      "24/7 Security",
+      "Concierge Service"
+    ],
+    "rating": 4.9,
+    "description": "Elegant penthouse with breathtaking views of the Manhattan skyline. This luxury unit features high ceilings, floor-to-ceiling windows, and premium finishes throughout. The open kitchen includes top-of-the-line appliances and a large island. The primary suite has a spa-like bathroom and a walk-in closet. Residents enjoy premium building amenities including a rooftop pool, fitness center, and 24/7 doorman service.",
+    "yearBuilt": 2019,
+    "availableFrom": "2025-05-15",
+    "tags": ["Luxury", "New", "Exclusive"]
+  },
+  {
+    "id": 2,
+    "title": "Modern Downtown Loft",
+    "price": 550000,
+    "pricePerMonth": 2800,
+    "area": 1200,
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "location": {
+      "address": "456 Urban Street",
+      "city": "San Francisco",
+      "state": "CA",
+      "zip": "94105",
+      "lat": 37.7749,
+      "lng": -122.4194
+    },
+    "type": "Residential",
+    "propertyType": "Loft",
+    "status": "For Rent",
+    "featured": true,
+    "images": [
+      "https://images.unsplash.com/photo-1518005020951-eccb494ad742",
+      "https://images.unsplash.com/photo-1493397212122-2b85dda8106b",
+      "https://images.unsplash.com/photo-1466442929976-97f336a657be"
+    ],
+    "amenities": [
+      "Hardwood Floors",
+      "High Ceilings",
+      "Stainless Steel Appliances",
+      "In-unit Laundry",
+      "Bike Storage"
+    ],
+    "rating": 4.7,
+    "description": "Stunning downtown loft with industrial chic design elements. Features exposed brick walls, concrete floors with radiant heating, and large windows bringing abundant natural light. The open floor plan includes a chef's kitchen with high-end appliances. Located in a historic building with modern amenities, steps away from restaurants, shopping, and transportation.",
+    "yearBuilt": 2014,
+    "availableFrom": "2025-04-30",
+    "tags": ["Industrial", "Urban", "Hot"]
+  },
+  {
+    "id": 3,
+    "title": "Suburban Family Home",
+    "price": 890000,
+    "pricePerMonth": 4200,
+    "area": 2500,
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "location": {
+      "address": "789 Maple Drive",
+      "city": "Austin",
+      "state": "TX",
+      "zip": "78701",
+      "lat": 30.2672,
+      "lng": -97.7431
+    },
+    "type": "Residential",
+    "propertyType": "Single Family",
+    "status": "For Sale",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1487958449943-2429e8be8625",
+      "https://images.unsplash.com/photo-1721322800607-8c38375eef04",
+      "https://images.unsplash.com/photo-1492321936769-b49830bc1d1e"
+    ],
+    "amenities": [
+      "Large Backyard",
+      "Finished Basement",
+      "Fireplace",
+      "Two-car Garage",
+      "Smart Home System"
+    ],
+    "rating": 4.5,
+    "description": "Charming family home in a quiet suburban neighborhood. This two-story house features a bright, open-concept main floor with hardwood throughout. The kitchen has been recently renovated with quartz countertops and new appliances. Upstairs you'll find four spacious bedrooms and a renovated main bathroom. The finished basement provides additional living space. The private backyard has a deck perfect for entertaining.",
+    "yearBuilt": 2005,
+    "availableFrom": "2025-05-01",
+    "tags": ["Family", "Spacious"]
+  },
+  {
+    "id": 4,
+    "title": "Waterfront Luxury Villa",
+    "price": 2500000,
+    "pricePerMonth": 12000,
+    "area": 4200,
+    "bedrooms": 5,
+    "bathrooms": 5.5,
+    "location": {
+      "address": "123 Oceanview Lane",
+      "city": "Miami",
+      "state": "FL",
+      "zip": "33131",
+      "lat": 25.7617,
+      "lng": -80.1918
+    },
+    "type": "Residential",
+    "propertyType": "Villa",
+    "status": "For Sale",
+    "featured": true,
+    "images": [
+      "https://images.unsplash.com/photo-1492321936769-b49830bc1d1e",
+      "https://images.unsplash.com/photo-1518005020951-eccb494ad742",
+      "https://images.unsplash.com/photo-1493397212122-2b85dda8106b"
+    ],
+    "amenities": [
+      "Private Beach Access",
+      "Infinity Pool",
+      "Home Theater",
+      "Wine Cellar",
+      "Outdoor Kitchen",
+      "Smart Home System",
+      "Elevator"
+    ],
+    "rating": 5.0,
+    "description": "Spectacular waterfront villa with unobstructed ocean views. This architectural masterpiece features soaring ceilings, walls of glass, and premium finishes throughout. The gourmet kitchen opens to a spacious family room with stunning water views. The primary suite includes a private terrace, custom walk-in closets, and a spa-like bathroom. Outside, enjoy the infinity pool, outdoor kitchen, and direct beach access.",
+    "yearBuilt": 2020,
+    "availableFrom": "2025-06-15",
+    "tags": ["Luxury", "Waterfront", "Exclusive", "New"]
+  },
+  {
+    "id": 5,
+    "title": "Downtown Office Space",
+    "price": 1200000,
+    "pricePerMonth": 15000,
+    "area": 3000,
+    "bedrooms": 0,
+    "bathrooms": 2,
+    "location": {
+      "address": "456 Business Avenue",
+      "city": "Chicago",
+      "state": "IL",
+      "zip": "60611",
+      "lat": 41.8781,
+      "lng": -87.6298
+    },
+    "type": "Commercial",
+    "propertyType": "Office",
+    "status": "For Rent",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1488590528505-98d2b5aba04b",
+      "https://images.unsplash.com/photo-1721322800607-8c38375eef04",
+      "https://images.unsplash.com/photo-1492321936769-b49830bc1d1e"
+    ],
+    "amenities": [
+      "Meeting Rooms",
+      "Reception Area",
+      "Server Room",
+      "Kitchen",
+      "Secure Access",
+      "Parking Garage"
+    ],
+    "rating": 4.6,
+    "description": "Premium office space in a prime downtown location. This contemporary workspace features an open floor plan that can be customized to your business needs. Includes high-speed internet infrastructure, modern meeting rooms, and a stylish reception area. The building offers 24/7 security, underground parking, and proximity to public transportation.",
+    "yearBuilt": 2016,
+    "availableFrom": "2025-05-01",
+    "tags": ["Commercial", "Business", "Modern"]
+  },
+  {
+    "id": 6,
+    "title": "Retail Space in Shopping Center",
+    "price": 850000,
+    "pricePerMonth": 9500,
+    "area": 2200,
+    "bedrooms": 0,
+    "bathrooms": 1,
+    "location": {
+      "address": "789 Market Street",
+      "city": "Los Angeles",
+      "state": "CA",
+      "zip": "90015",
+      "lat": 34.0522,
+      "lng": -118.2437
+    },
+    "type": "Commercial",
+    "propertyType": "Retail",
+    "status": "For Rent",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1488590528505-98d2b5aba04b",
+      "https://images.unsplash.com/photo-1518005020951-eccb494ad742",
+      "https://images.unsplash.com/photo-1493397212122-2b85dda8106b"
+    ],
+    "amenities": [
+      "High Foot Traffic",
+      "Large Display Windows",
+      "Storage Area",
+      "Loading Dock",
+      "Customer Parking"
+    ],
+    "rating": 4.2,
+    "description": "Prime retail space in a popular shopping center with excellent visibility and foot traffic. This corner unit features large display windows, high ceilings, and flexible layout options. The property includes a small office area, customer bathroom, and rear storage space with loading access. Located in a busy commercial district with complementary businesses and ample parking.",
+    "yearBuilt": 2012,
+    "availableFrom": "2025-05-15",
+    "tags": ["Commercial", "Retail", "High Traffic"]
+  }
+]

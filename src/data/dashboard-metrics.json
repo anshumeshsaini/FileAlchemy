@@ -1,0 +1,68 @@
+
+{
+  "propertyMetrics": {
+    "totalProperties": 128,
+    "residentialCount": 92,
+    "commercialCount": 36,
+    "forSale": 76,
+    "forRent": 52,
+    "averagePrice": 875000,
+    "averageRating": 4.6,
+    "mostViewedProperty": 1,
+    "newestProperty": 4
+  },
+  "bookingMetrics": {
+    "totalBookings": 245,
+    "confirmedBookings": 187,
+    "pendingBookings": 58,
+    "bookingsThisMonth": 42,
+    "bookingsLastMonth": 37,
+    "bookingGrowthRate": 13.5
+  },
+  "userMetrics": {
+    "totalUsers": 315,
+    "buyerCount": 267,
+    "sellerCount": 47,
+    "adminCount": 1,
+    "newUsersThisMonth": 28,
+    "activeUsers": 189
+  },
+  "financialMetrics": {
+    "totalRevenue": 1250000,
+    "revenueThisMonth": 125000,
+    "revenueLastMonth": 115000,
+    "revenueGrowthRate": 8.7,
+    "averagePropertyValue": 875000,
+    "highestPropertyValue": 2500000
+  },
+  "chartData": {
+    "propertyTypeDistribution": [
+      { "type": "Apartment", "count": 42 },
+      { "type": "House", "count": 35 },
+      { "type": "Loft", "count": 15 },
+      { "type": "Office", "count": 23 },
+      { "type": "Retail", "count": 13 }
+    ],
+    "bookingsTrend": [
+      { "month": "Jan", "count": 28 },
+      { "month": "Feb", "count": 32 },
+      { "month": "Mar", "count": 35 },
+      { "month": "Apr", "count": 37 },
+      { "month": "May", "count": 42 },
+      { "month": "Jun", "count": 0 },
+      { "month": "Jul", "count": 0 },
+      { "month": "Aug", "count": 0 },
+      { "month": "Sep", "count": 0 },
+      { "month": "Oct", "count": 0 },
+      { "month": "Nov", "count": 0 },
+      { "month": "Dec", "count": 0 }
+    ],
+    "revenueByMonth": [
+      { "month": "Jan", "amount": 95000 },
+      { "month": "Feb", "amount": 102000 },
+      { "month": "Mar", "amount": 110000 },
+      { "month": "Apr", "amount": 115000 },
+      { "month": "May", "amount": 125000 }
+    ]
+  }
+}
