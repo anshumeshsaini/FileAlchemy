@@ -7,6 +7,7 @@ type User = {
   id: number;
   name: string;
   email: string;
+  password?: string; // Make password optional since we don't want to expose it in all contexts
   role: "buyer" | "seller" | "admin";
   avatar: string;
   phone: string;
