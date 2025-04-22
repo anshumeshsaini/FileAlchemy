@@ -1,4 +1,3 @@
-
 {
   "propertyAssistant": {
     "faqs": [
@@ -69,6 +68,16 @@
       {
         "propertyId": 6,
         "enhancedDescription": "This exceptional retail opportunity sits at the convergence of foot traffic, visibility, and accessibility—the three critical factors for retail success. The configurable space offers maximum flexibility with its column-free layout and high ceilings, allowing for creative merchandising and brand expression. Premium storefront glazing provides unobstructed visibility and natural light, creating an inviting atmosphere for customers. The property benefits from a complementary tenant mix that drives consistent traffic, with neighboring businesses that enhance rather than compete with various retail concepts. Ample parking and proximity to public transportation ensure customers can access your business with ease. This location has consistently demonstrated strong sales metrics across previous tenants, promising excellent potential for the right retail concept."
+      }
+    ],
+    "emailTemplates": [
+      {
+        "propertyId": 1,
+        "template": "Hello, I'm very interested in viewing the luxury penthouse. The skyline views and premium amenities are exactly what I'm looking for. Could we arrange a viewing this week? I'm particularly interested in seeing the rooftop pool and understanding more about the concierge services."
+      },
+      {
+        "propertyId": 2,
+        "template": "Hi, I'm reaching out about the modern downtown loft. The industrial chic design and location are perfect for my needs. I'd love to schedule a viewing and learn more about the building's amenities, particularly the bike storage options."
       }
     ]
   }
